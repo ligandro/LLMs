@@ -29,4 +29,5 @@ ENV/
 Thumbs.db
 
 
-Projects/enbcdoderdecoder/
+Topics/Finetuning/
+Topics/InstructionTuning/
