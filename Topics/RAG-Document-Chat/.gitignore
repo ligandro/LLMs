@@ -29,10 +29,7 @@ ENV/
 Thumbs.db
 
 
-Topics/Finetuning/
-Topics/InstructionTuning/
-EpsteinFiles-RAG-main/
-
 data/
 chroma_db/
 .streamlit/
+RETRIEVAL_METHODS.md
