@@ -27,12 +27,19 @@ Production-ready applications demonstrating practical AI implementations:
 - Flask backend with RESTful API
 - 📁 Location: `Projects/AI-Flashcard/`
 
-#### 2. **PreTraining**
+#### 2. **GatsbyVectorDB**
+- Vector database implementation using The Great Gatsby novel
+- Semantic search using SentenceTransformers embeddings
+- ChromaDB persistent storage and querying
+- Complete Jupyter notebook tutorial
+- 📁 Location: `Projects/GatsbyVectorDB/`
+
+#### 3. **PreTraining**
 - Full transformer pre-training from scratch
 - Complete training pipeline implementation
 - 📁 Location: `Projects/PreTraining/`
 
-#### 3. **RAG-Document-Chat**
+#### 4. **RAG-Document-Chat**
 - Document-based RAG system
 - Multiple retrieval methods (Basic, MMR, Re Ranking)
 - ChromaDB vector storage
