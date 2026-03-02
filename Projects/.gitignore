@@ -33,6 +33,8 @@ Finetuning/
 InstructionTuning/
 EpsteinFiles-RAG-main/
 LLM-Research-Agent-main/
+Research-Helper/
+mini_rag_agent/
 
 data/
 chroma_db/

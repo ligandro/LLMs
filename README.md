@@ -10,8 +10,14 @@ A comprehensive collection of AI/LLM topics and projects covering transformer tr
 
 Hands-on implementations and tutorials for various LLM techniques:
 
-#### 1. **RAG-Course CodeCamp**
+#### 1. **RAG/RAG-Course CodeCamp**
 - Retrieval-Augmented Generation course
+
+#### 2. **Agents/starter_agent**
+- AI agents startercourse
+
+#### 3.Computer Vision/HuggingFace_Course
+- Hugging Face computer vision course
 
 ---
 
